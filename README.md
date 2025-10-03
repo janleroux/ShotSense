@@ -1,11 +1,9 @@
-# RELEASE
+# SHOTSENSE Firmware
 
-[RELEASE notes](link_url)
+## RELEASE
+* [RELEASE notes](https://github.com/janleroux/fw-ShotSense/blob/main/release/README.md)
+* [RELEASE version](https://github.com/janleroux/fw-ShotSense/blob/main/release/release-version.txt)
 
-[RELEASE version](link_url)
-
-# DEV
-
-[DEV notes]([link_url](https://github.com/janleroux/fw-ShotSense/blob/main/dev/README.md))
-
-[DEV version](link_url)
+## DEV
+* [DEV notes](https://github.com/janleroux/fw-ShotSense/blob/main/dev/README.md)
+* [DEV version](https://github.com/janleroux/fw-ShotSense/blob/main/dev/dev-version.txt)
